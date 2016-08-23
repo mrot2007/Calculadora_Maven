@@ -31,7 +31,7 @@ public class CalculadoraTest {
      */
    
     public void testSubtrair() {
-        assertEquals(40, calc.subtrair(50,30), 0);
+        assertEquals(20, calc.subtrair(50,30), 0);
     }
 
     /**
